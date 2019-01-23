@@ -22,7 +22,7 @@ NETID=9535753591
 mapfile -t IDENTITY <"${PWD}"/network/"$NODE_NAME"/IDENTITY
 mapfile -t NODE_TYPE <"${PWD}"/network/"$NODE_NAME"/NODE_TYPE
 NODE_IP="127.0.0.1"
-ETH_STATS_IP="127.0.0.1"
+ETH_STATS_IP="172.10.4.131"
 
 echo "[*] Starting $NODE_NAME"
 

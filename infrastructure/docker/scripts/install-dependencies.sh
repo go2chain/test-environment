@@ -33,4 +33,4 @@ else
 fi
 
 # Clone Alastria test environment
-cd .. && git clone --depth 1 https://github.com/fooock/test-environment
+cd .. && git clone --depth 1 https://github.com/go2chain/test-environment
